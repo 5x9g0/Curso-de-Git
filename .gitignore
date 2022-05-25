@@ -1,0 +1,4 @@
+# Se ignora la carpeta bin, y se comenta con #
+bin
+
+#si quiero ignorar los archivos html se haría en otra linea *.html y asi
